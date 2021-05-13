@@ -1,6 +1,6 @@
 {
     "name": "screen_capture_tunde",
-    "description": "Build an Extension!",
+    "description": "screen capture for automatically capturing screen, still in development",
     "version": "1.0",
     "manifest_version": 3,
     "icons":{"128":"camera_128.png", "64":"camera_64.png"},
